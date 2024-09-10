@@ -1,7 +1,7 @@
 👋Hola soy Ismael W Lopez C
 👀Estoy interesado en...Programacion de programas
-🌱Actualmente estoy aprendiendo... Inteligencia Artificion
-💞️Busco colaborar en...Tics
+🌱Actualmente estoy aprendiendo... Inteligencia Artificial
+💞️Busco colaborar en...Tics y Meta
 📫 Cómo llegar a mí...por correo electronico
 😄 Pronombres: ...ISMA
 ⚡Dato curioso: ... Soy egresado Sena
